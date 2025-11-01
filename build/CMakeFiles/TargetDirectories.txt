@@ -1,3 +1,0 @@
-/home/leand/Documents/rubiksCube/build/CMakeFiles/rubiks.dir
-/home/leand/Documents/rubiksCube/build/CMakeFiles/edit_cache.dir
-/home/leand/Documents/rubiksCube/build/CMakeFiles/rebuild_cache.dir
